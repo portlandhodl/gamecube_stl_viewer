@@ -1,0 +1,41 @@
+# Build artifacts
+*.o
+*.elf
+*.dol
+*.map
+*.d
+*.a
+*.so
+*.dylib
+
+# Build directories
+build/
+obj/
+bin/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
